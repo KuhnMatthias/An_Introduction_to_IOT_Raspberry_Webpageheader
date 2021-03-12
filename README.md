@@ -1,1 +1,2 @@
 Use the http.client package to read the contents of the www.uci.edutop level web page and print out the first 3 lines. You will need to use http.client.HTTPSConnection() to make the connection to the www.uci.eduweb page. Then you will need to use conn.request("GET", "/") to send the get request. Then use conn.getresponse() to extract the response and use the read() method of the response to return the contents of the webpage.
+![2021-03-12-133143_1920x1080_scrot](https://user-images.githubusercontent.com/70940866/110947995-bc91a180-8338-11eb-932a-f2a1dee39072.png)
